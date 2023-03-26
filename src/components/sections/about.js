@@ -151,17 +151,19 @@ const About = () => {
             </p>
             <p>
               Whether it's a website, mobile app, or software program, I take pride in creating
-              beautiful and functional products that meet both the user's needs. I've been
-              fascinated with web development since I first started tinkering with HTML and CSS back
-              in first year of my college. Since then, I've had the privilege of working with
-              multiple startups, open source projects, and student organizations.
+              beautiful and functional products that meet the user's needs. I've been fascinated
+              with web development since I first started tinkering with HTML and CSS back in first
+              year of my college. Since then, I've had the privilege of working with multiple
+              startups, open source projects, and student organizations.
             </p>
-            {/* <p>
-              These days, I focus on building clean, user-friendly interfaces using modern
-              technologies like React and TypeScript. I believe that good design should be
-              accessible to everyone, which is why I prioritize building inclusive digital
-              experiences that work for all users.
-            </p> */}
+            <p>
+              When I'm not working on the next big thing, you can find me exploring the outdoors or
+              one sip of tea
+              <span role="img" aria-label="tea">
+                🧋
+              </span>
+              away from my next coding session.
+            </p>
             <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
