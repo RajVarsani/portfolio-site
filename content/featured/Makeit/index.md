@@ -3,7 +3,7 @@ date: '1'
 title: 'MakeIt'
 cover: './cover.png'
 github: 'https://github.com/RajVarsani/makeit-frontend'
-external: 'https://makeit-netlify.netlify.app/'
+external: 'https://makeit-frontend.vercel.app/'
 tech:
   - React
   - Node.js
