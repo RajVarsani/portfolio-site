@@ -1,6 +1,6 @@
 ---
 date: '0'
-title: 'IndieFoods'
+title: 'Melomint'
 cover: './cover.png'
 github: 'https://github.com/melomint-dev'
 external: 'https://melomint.vercel.app/'
