@@ -3,7 +3,7 @@ date: '2'
 title: 'Uthaan'
 cover: './home.jpg'
 github: 'https://github.com/Uthaan-IIITM/'
-external: 'https://www.uthaan.org/'
+external: 'https://uthaan.netlify.com/'
 tech:
   - React
   - Node.js

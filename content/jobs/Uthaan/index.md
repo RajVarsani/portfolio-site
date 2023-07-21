@@ -4,7 +4,7 @@ title: 'Tech Executive'
 company: 'Uthaan IIITM'
 location: 'Gwalior, India'
 range: 'Aug 2021 - present'
-url: 'https://www.uthaan.org/'
+url: 'https://uthaan.netlify.com/'
 ---
 
 - Designed and developed a website for the institute’s journalism and recreational club.
