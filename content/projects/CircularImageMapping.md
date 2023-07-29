@@ -1,13 +1,14 @@
 ---
 date: '2022-12-25'
-title: 'Circular Image Mapping'
-github: 'https://github.com/RajVarsani/circular-image-mapping'
-external: 'https://circular-images-mapping.netlify.app/'
+title: 'Angel Gems'
+github: 'https://github.com/Dharmesh177/Angel_Gems'
+external: ''
 tech:
-  - React
-  - TypeScript
+  - Html
+  - Javascript
   - CSS
+  - Node.JS
 showInProjects: true
 ---
 
-An Mapping Component For Circular Image Mapping of React with native angular calculations that can be modified to work with any image and dynamic number of points.
+Anjal Gems is a well-known name in the lab-grown diamond industry in Gujarat. Get chance to work with them and Designed and Developed Website for them.

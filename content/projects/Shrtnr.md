@@ -1,16 +1,15 @@
 ---
 date: '2023-6-12'
-title: 'Shrtnr'
-github: 'https://github.com/orgs/shrtnr-tech/repositories'
-external: 'https://www.shrtnr.tech/'
+title: 'Online Voting Portal'
+github: 'https://github.com/Dharmesh177/online_voting_system'
+external: ''
 tech:
-  - Next.js
-  - React
-  - JavaScript
-  - Node.js
-  - MongoDB
-  - Express
+  - Java
+  - Sevlet
+  - JSP
+  - JDBC
+  - MySql
 showInProjects: true
 ---
 
-Shrtnr.tech provides users with the ability to generate shortened URLs for their online content & analytics feature that allows users to track the analytics on each shortened link.
+Designed and built an Online Voting System. Implemented voter and nominee management functionality, allowing voters to vote for their preferred nominee and enabling administrators to view and analyze voting results.

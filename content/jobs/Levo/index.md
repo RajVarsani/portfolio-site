@@ -1,13 +1,10 @@
 ---
-date: '2021-8-21'
-title: 'Software Engineer Co-op'
-company: 'Levo'
+date: '3'
+title: 'Web Developer Intern'
+company: 'DPI Rainbow'
 location: 'Gwalior, India'
-range: Oct - Nov 2021'
+range: Feb - March 2023'
 ---
 
-- Developed and integrated user interfaces using React.js with
-  Redux for state management and Razorpay for payment
-  interfaces.
-- Designed web user interfaces with Figma
-- Contributed extensively in designing the system architecture.
+- Implemented and maintained an e-commerce website for selling bicycles with a user-friendly interface, allowing buyers to easily browse, purchase, and track delivery.
+- Improved user interface of bicycle selling website and implemented Google authentication for enhanced security

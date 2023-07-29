@@ -1,14 +1,14 @@
 ---
 date: '2022-08-05'
-title: 'Grab It'
-github: ''
-external: 'https://www.grabit-ayush.me/'
+title: 'StuHelp'
+github: 'https://github.com/Dharmesh177/hackathon'
+external: 'https://stuhelp-by-tejas-and-dharmesh.vercel.app/'
 tech:
-  - Wix
-  - Velo
-  - Wix-data-api
-  - Wix-members
+  - React.js
+  - Node.js
+  - Firebase
+  - Vercel
 showInProjects: true
 ---
 
-A Unique game where user needs to grab and stop bombs from detonating and saving your base from destruction. The game is made using Wix and Velo.
+This is STUHELP - Student Activity Management System Platfrom which consist various courses and competition for student to improve their academic and soft - skills and make them competitive.

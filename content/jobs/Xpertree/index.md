@@ -1,12 +1,13 @@
 ---
-date: '2023-01-01'
-title: 'UI Engineer'
-company: 'Xpertree'
+date: '0'
+title: 'President'
+company: 'CodeChef'
 location: 'Hyderabad, India'
 range: 'January - Mar 2023'
 url: 'https://www.xpertree.com/'
 ---
 
-- Contributed Extensively to Developing and shipping highly interactive web applications for Xpertree using Angular.
-- Worked closely with designers and management team to develop, document, and manage the execution of the product roadmap.
-- Worked on various core functionalities and redevelopment of the product User Interface.
+- President at CodeChef BVM Chapter.
+- Organized contests, Coding Challenges, delivered workshops on Compititive Programming.
+- Organized events, conducted workshops and delivered workshops reaching over 100+ participants.
+- Handled teams of 27+ core team member and community of 100+ competitive coders to bring coding culture in BVM College.

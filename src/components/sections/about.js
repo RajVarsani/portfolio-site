@@ -125,16 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = [
-    'JavaScript',
-    'TypeScript',
-    'Next.js',
-    'Express',
-    'Node.js',
-    'React Native',
-    'AWS',
-    'Angular',
-  ];
+  const skills = ['JavaScript', 'Express', 'Node.js', 'Java', 'AWS', 'MongoDb', 'MySql', 'C/C++'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -144,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Raj, being a developer who loves to design, I have a unique skill
+              Hello! My name is Dharmesh, being a developer who loves to code, I have a unique skill
               set that allows me to approach projects from both a technical and creative standpoint.
               I enjoy the challenge of taking complex ideas and turning them into simple, intuitive
               designs that make people's lives easier.
@@ -152,9 +143,7 @@ const About = () => {
             <p>
               Whether it's a website, mobile app, or software program, I take pride in creating
               beautiful and functional products that meet the user's needs. I've been fascinated
-              with web development since I first started tinkering with HTML and CSS back in first
-              year of my college. Since then, I've had the privilege of working with multiple
-              startups, open source projects, and student organizations.
+              with web development since my majorly work is on that domain.
             </p>
             <p>
               When I'm not working on the next big thing, you can find me exploring the outdoors or

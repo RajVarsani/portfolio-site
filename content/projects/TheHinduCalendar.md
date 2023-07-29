@@ -7,7 +7,7 @@ tech:
   - Kotlin
   - Firebase
   - Android
-showInProjects: true
+showInProjects: false
 ---
 
 A Convinient Calendar App for Android Users to keep track of all the Hindu Festivals, Events, and Holidays along with Tithi, and Nakshatra with intiutive Home Screen Widgets.

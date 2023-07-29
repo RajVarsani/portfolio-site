@@ -1,8 +1,8 @@
 ---
 date: '2022-08-01'
-title: 'HTML Archives'
-github: 'https://github.com/RajVarsani/html-archives'
-external: ''
+title: 'Kudozu - Quiz App'
+github: 'https://github.com/Dharmesh177/KUDOZU-QUIZ-APP'
+external: 'https://dharmesh177.github.io/KUDOZU-QUIZ-APP/'
 tech:
   - HTML
   - CSS
@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-An Archive of Beginner-Friendly Projects related to Web Development for Kickstarting your Journey
+This is an Quiz Web Application in which i have set 4 JS basic Question for experiment purpose.We can add more Question in it.We can see our score after final submit.

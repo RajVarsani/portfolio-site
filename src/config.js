@@ -1,18 +1,18 @@
 module.exports = {
-  email: 'varasaniraj5@gmail.com',
+  email: 'dvala453@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/RajVarsani',
+      url: 'https://github.com/Dharmesh177',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/varsani-raj/',
+      url: 'https://www.linkedin.com/in/dharmesh-vala-252724204/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/RajVarsani404',
+      url: 'https://twitter.com/Dharmes33580950',
     },
   ],
 

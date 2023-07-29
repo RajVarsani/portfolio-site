@@ -1,16 +1,14 @@
 ---
 date: '2022-02-01'
-title: 'Shop Management System'
-github: 'https://github.com/RajVarsani/ecommerce-demo'
-external: 'https://shop-management-demo.netlify.app/'
+title: 'Cyclexo'
+github: 'https://github.com/Dharmesh177/projectakshay'
+external: ''
 tech:
   - React
-  - Redux
-  - Node
-  - Pino
-  - Swagger
-  - Redux
+  - Node.js
+  - Express.js
+  - Mongodb
 showInProjects: true
 ---
 
-An Demo Project to Easily Manage the Orders and Products of multiple Shops and Users
+This is Bicycle Selling System basically an e-commerce website where user can buy and sell bicycles and orders and payment gateway also implemented.
