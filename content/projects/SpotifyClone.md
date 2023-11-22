@@ -7,7 +7,7 @@ tech:
   - React
   - Spotify API
   - CSS
-showInProjects: true
+showInProjects: false
 ---
 
 An Spotify Clone made using React and Spotify API with features like Play, Pause, and Playlist Management.

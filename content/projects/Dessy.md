@@ -7,7 +7,7 @@ tech:
   - Java
   - Android
   - Firebase
-showInProjects: true
+showInProjects: false
 ---
 
 App that allows peer programming for competitive programming contests and helps in improving the coding skills of the users through leaderboard and a rating system.

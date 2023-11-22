@@ -1,16 +1,16 @@
 ---
-date: '1'
-title: 'MakeIt'
-cover: './cover.png'
-github: 'https://github.com/RajVarsani/makeit-frontend'
-external: 'https://makeit-frontend.vercel.app/'
+date: '0'
+title: 'ProjectExpo'
+cover: './projectexpo.png'
+github: 'https://github.com/Dharmesh177/ProjectExpo'
+external: '#'
 tech:
   - React
   - Node.js
-  - Redux
-  - MongoDB
   - Express
+  - MongoDB
+  - AWS
   - Figma
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Developed a portal where Student of various colleges can upload their projects and plagarism will checked on thats as well as Implemented Recommendation model on supporting peer to peer learning.

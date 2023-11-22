@@ -1,15 +1,14 @@
 ---
 date: '2022-08-05'
-title: 'Spazio'
-github: ''
-external: 'https://rajvarsani01.editorx.io/spazio'
+title: 'CSCODETECH'
+github: 'https://github.com/Dharmesh177/CSCODETECH_INTERNSHIP'
+external: 'https://cscodetech.vercel.app/'
 tech:
-  - Wix
-  - Velo
-  - EditorX
-  - Wix-data-api
-  - Wix-users-api
+  - React.js
+  - Node.js
+  - Vercel
+  - CSS
 showInProjects: true
 ---
 
-An endless space runner game with a unique twist of dual spaceships. Those ships face obstacles with variable heights ranging from 1-3 blocks during their journey
+Developed and integrated Website for CSCODETECH for high-traffic service-based website, serving a global user community.

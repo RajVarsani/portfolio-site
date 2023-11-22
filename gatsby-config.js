@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Raj Varsani',
+    title: 'Dharmesh Vala',
     description:
-      'Raj Varsani is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Dharmesh Vala is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://rajvarsani.codes', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@RajVarsani404',
@@ -20,7 +20,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Raj Varsani',
+        name: 'Dharmesh Vala',
         short_name: 'Raj',
         start_url: '/',
         background_color: config.colors.darkNavy,

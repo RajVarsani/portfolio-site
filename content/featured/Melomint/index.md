@@ -1,15 +1,16 @@
 ---
-date: '0'
-title: 'Melomint'
-cover: './cover.png'
+date: '3'
+title: 'MNM - Manavta ni Mahek'
+cover: './mnm.png'
 github: 'https://github.com/melomint-dev'
-external: 'https://melomint.vercel.app/'
+external: 'https://manavta-ni-mahek.000webhostapp.com/'
 tech:
-  - Flow
-  - Next.js
-  - Tenserflow
-  - Fast API
-  - Node.js
+  - HTML
+  - CSS
+  - JavaScript
+  - PHP
+  - MySQL
 ---
 
-A Unique music platform empowering artists with AI-driven nested royalties and NFT members and Transparent analytics. Seamless access to a vast high-quality song library for users. Support artists with exclusive NFTs with Flow blockchain.
+Designed and developed a website for an NGO called Manavta Ni Mahek, dedicated to animal rescue. providing a platform for them to reach a wider
+audience and Integrated a real-time payment gateway using Razor Pay in the donation section.

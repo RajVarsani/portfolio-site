@@ -6,7 +6,7 @@ external: ''
 tech:
   - Kotlin
   - Android
-showInProjects: true
+showInProjects: false
 ---
 
 App allwing users to track the availability of Covid Vaccination Slots in their area and get notified when a slot is available.

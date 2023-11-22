@@ -1,14 +1,13 @@
 ---
-date: '2020-08-01'
-title: 'Tech Executive'
-company: 'Uthaan IIITM'
+date: '1'
+title: 'Full Stack Developer'
+company: 'SIH 2022'
 location: 'Gwalior, India'
-range: 'Aug 2021 - present'
-url: 'https://uthaan.netlify.com/'
+range: 'April - Aughust 2023'
+# url: 'https://uthaan.netlify.com/'
 ---
 
-- Designed and developed a website for the institute’s journalism and recreational club.
-- Designed user interfaces using Figma, worked with React.js, Node.js, React Context API, Axios for the frontend and Express.js, Cloudinary, and MongoDB for the backend.
-- Integrated Medium and Youtube APIs for dynamic data.
-- Collaborating and leading a team of creatives to design the club's virtual profile, create social media content, and conduct technical sessions.
-- As the Technical lead, my responsibilities also include managing the live streams and also mentoring a young team of enthusiastic learners to design visually appealing content.
+- Designed and developed a website for the AICTE Provided statement in Smart India Hackathon 2022.
+- Led a winning team in Smart India Hackathon 2022 to develop ProjectExpo, an Developed an Integrated platform for projects taken up by the students of various universities/colleges.
+- Students of various universities/colleges can upload their projects on this platform and this information will help the students community to take up unique/innovative projects and work on them, also in the peer to peer learning.
+- Implemented a machine learning-based project recommendation model and PlagiarismSearch with node js to check plagiarism and generate reports.
