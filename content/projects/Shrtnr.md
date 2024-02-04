@@ -1,5 +1,5 @@
 ---
-date: '2023-6-12'
+date: '2023-06-12'
 title: 'Shrtnr'
 github: 'https://github.com/orgs/shrtnr-tech/repositories'
 external: 'https://www.shrtnr.tech/'
