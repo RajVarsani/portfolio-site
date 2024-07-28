@@ -1,5 +1,5 @@
 ---
-date: '-2'
+date: '-1'
 title: 'Wagmi.Quest'
 cover: './cover.png'
 github: 'https://github.com/abhisheknaiidu/gpt-generative-ui'
