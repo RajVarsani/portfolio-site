@@ -1,9 +1,9 @@
 ---
 date: '2021-8-21'
-title: 'Software Engineer Co-op'
+title: 'Software Engineer Intern'
 company: 'Levo'
 location: 'Gwalior, India'
-range: Oct - Nov 2021'
+range: 'Oct - Nov 2021'
 ---
 
 - Developed and integrated user interfaces using React.js with
