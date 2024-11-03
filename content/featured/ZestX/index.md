@@ -3,7 +3,7 @@ date: '4'
 title: 'ZestX'
 cover: './cover.png'
 github: 'https://github.com/ZestX-IIIT/ZestX-Frontend'
-external: 'https://zestx.netlify.com/'
+external: 'https://zestx.netlify.app/'
 tech:
   - HTML
   - Node.js
